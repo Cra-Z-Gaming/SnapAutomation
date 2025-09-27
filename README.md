@@ -15,7 +15,7 @@ Everything is open source - you can check the code to make sure it’s safe.
 
 It only interacts with buttons for automation purposes.
 
-Press F2 to start, F4 to stop, and X for emergency stop.
+Press X for emergency stop
 
 -------
 
