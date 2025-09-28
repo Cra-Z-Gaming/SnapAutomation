@@ -1,4 +1,4 @@
-[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  [SnapScore Automater](https://greasyfork.org/en/scripts/550901-snapscore-automater)
+[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) --- [SnapScore Automater](https://greasyfork.org/en/scripts/550901-snapscore-automater)
 
 # SnapAutomation
 I saw somone made a Snapscore automater but also noticed its $25??? 
