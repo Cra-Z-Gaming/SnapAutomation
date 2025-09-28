@@ -1,3 +1,5 @@
+[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  [SnapScore Automater](https://greasyfork.org/en/scripts/550901-snapscore-automater)
+
 # SnapAutomation
 I saw somone made a Snapscore automater but also noticed its $25??? 
 hell no, so i went to my pc, 
@@ -22,9 +24,3 @@ Press X for emergency stop
 I chose Tampermonkey because its a free alternitvate to making my own chrome extention, and it works great with web.
 
 --------
-
-Links - Tampermonkey / Script
-
-[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-
-[SnapScore Automater](https://greasyfork.org/en/scripts/550901-snapscore-automater)
