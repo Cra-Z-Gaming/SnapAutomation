@@ -19,4 +19,4 @@ Press X for emergency stop
 
 -------
 
--- I chose Tampermonkey because its a free alternitvate to making my own chrome extention, and it works great with web. --
+I chose Tampermonkey because its a free alternitvate to making my own chrome extention, and it works great with web.
