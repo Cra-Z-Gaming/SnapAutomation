@@ -20,3 +20,6 @@ Press X for emergency stop
 -------
 
 I chose Tampermonkey because its a free alternitvate to making my own chrome extention, and it works great with web.
+
+
+[Install SnapScore Automater](https://greasyfork.org/en/scripts/550901-snapscore-automater)
