@@ -1,5 +1,7 @@
 [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) --- [SnapScore Automater](https://greasyfork.org/en/scripts/550901-snapscore-automater)
 
+[WATCH VIDEO FOR EASIER SETUP](https://www.youtube.com/watch?v=Hyy77tNbA_g)
+
 # SnapAutomation
 I saw somone made a Snapscore automater but also noticed its $25??? 
 hell no, so i went to my pc, 
