@@ -8,5 +8,33 @@ Step 2 - Install my script to Tampermonkey
 
 https://greasyfork.org/en/scripts/550901-snapscore-automater
 
-Step 3 - Setup
+Step 3 - Setup ---⚠️ONLY WORKS ON WEB SNAPCHAT⚠️--- https://www.snapchat.com/web
 
+----------------------To make my life easier, the snapscore popup is called a GUI so i will say it alot------------------
+
+When you enter snapchat, You should see my GUI
+We need to focus on the top 4 buttons 
+Cam ON - looks like a camera in the middle, this will enable the camera each time because snapchat turns it off to reduce lag
+Picture - takes a picture (make sure you have a camera or use OBS)
+Send - clicks the bottom right send button
+Final Send - when friend/s selected, there will be another send button
+
+Ok, now that you read nothing, we can start the setup
+
+---REAL SETUP---
+
+make sure you click "turn off your camera" it should be the X on the top left of your camera 
+you should see "Click the Camera to send Snaps" - this is what you want
+
+Step 3.1 - In the GUI you will need to click: Cam ON, Picture, Send, Final Send
+But make sure you click in the correct order. 
+First Click the button with the name, then click the thing on the screen.
+
+Cam ON -> click the grey camera
+Picture -> White ring on the button
+Send -> Blue "Send To" button
+IMPORTANT⚠️ - you will need to DRAG the profile of the person you want to send to INTO the dropbox
+then select a random person to make the SEND button apear, 
+In the GUI click "Final Send" then click the SEND button on the bottom
+
+Click Start and YOU are done :D (dont put multiple of the same people, it will deselect)
